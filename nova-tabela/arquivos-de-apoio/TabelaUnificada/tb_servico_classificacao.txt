@@ -1,0 +1,415 @@
+165001Referência para Atenção Integral às Pessoas em Situação de Violência Sexual                                                                           202308
+166001Água de Consumo                                                                                                                                       202308
+167001ODONTOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                           202308
+168001Atenção Especializada Em Doenças Raras                                                                                                                202308
+169001Urologia em Geral                                                                                                                                     202308
+170001Núcleo de Segurança do Paciente                                                                                                                       202308
+173001Recebimento e Inspeção                                                                                                                                202308
+174001Indivíduos em Geral                                                                                                                                   202308
+100001Atendimento em presídio até 100 presos                                                                                                                202308
+101001Saúde da família                                                                                                                                      202308
+102001Estratégia de Agentes Comunitários de Saúde - EACS                                                                                                    202308
+103001Ambulância de transporte                                                                                                                              202308
+104001Central de Regulação de Internações Hospitalares                                                                                                      202308
+105001Neurocirurgia do trauma e anomalias do desenvolvimento                                                                                                202308
+106001Testagem e aconselhamento                                                                                                                             202308
+107001Serviço de Atenção à Saúde Auditiva na Média Complexidade                                                                                             202308
+108001Atendimento/acompanhamento em saúde do trabalhador                                                                                                    202308
+109001Unidade sócio-educativa com até 40 adolecentes                                                                                                        202308
+110001Atenção à infertilidade                                                                                                                               202308
+111001Diagnóstico e tratamento                                                                                                                              202308
+112001Acompanhamento do pré-natal de risco habitual                                                                                                         202308
+113001Assitência Domiciliar                                                                                                                                 202308
+114001Dentística                                                                                                                                            202308
+115001Residência terapêutica em saúde mental                                                                                                                202308
+116001Eletrofisiologia                                                                                                                                      202308
+117001Tratamento da lipodistrofia do portador de HIV / AIDS                                                                                                 202308
+118001Cirurgia torácica                                                                                                                                     202308
+119001Abordagem e tratamento do fumante                                                                                                                     202308
+120001Exames anatomopatológicos                                                                                                                             202308
+121001Radiologia                                                                                                                                            202308
+122001Teste Ergométrico                                                                                                                                     202308
+123001OPM auxiliares de locomoção                                                                                                                           202308
+124001Diagnóstico/Tratamento das doenças endócrinas, metabólicas e nutricionais                                                                             202308
+125001Dispensação de Medicamentos do Componente Especializado da Assistência Farmaceutica.                                                                  202308
+126001Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                                                                  202308
+127001Tratamento clínico, cirúrgico, reparador e acompanhamento ao obeso                                                                                    202308
+128001Procedimentos destinados à obtenção do sangue para fins de assitência hemoterápica                                                                    202308
+129001Exames de histocompatibilidade por meio de sorologia                                                                                                  202308
+130001Tratamento Dialítico-Hemodiálise                                                                                                                      202308
+131001Diagnóstico em oftalmologia                                                                                                                           202308
+132001Oncologia pediátrica                                                                                                                                  202308
+133001Tratamento de Doenças das Vias Aéreas Inferiores                                                                                                      202308
+134001Acupuntura                                                                                                                                            202308
+135001Reabilitação Visual                                                                                                                                   202308
+136001Enteral                                                                                                                                               202308
+137001Exame eletrocardiográfico por telemedicina                                                                                                            202308
+138001Diagnóstico e tratamento em cintura escapular                                                                                                         202308
+139001Tratamento de recém-nascido com hipotireoidismo e fenilcetonuria                                                                                      202308
+141001Vigilância epidemiológica                                                                                                                             202308
+142001Do aparelho digestivo                                                                                                                                 202308
+143001Transporte terrestre                                                                                                                                  202308
+144001Coleta realizada fora das estrutura laboratorial                                                                                                      202308
+145001Exames Bioquimicos                                                                                                                                    202308
+146001Diagnóstica                                                                                                                                           202308
+147001NASF 1                                                                                                                                                202308
+148001Saúde mental                                                                                                                                          202308
+149001Rim                                                                                                                                                   202308
+150001Fístula arteriovenosa sem enxerto                                                                                                                     202308
+151001Medicina nuclear in vivo                                                                                                                              202308
+152001Atenção Básica à Populações Indígenas                                                                                                                 202308
+153001Acompanhamento Clínico, pré e pós operatório e hormonioterapia.                                                                                       202308
+154001Banco de valvula cardiaca humana                                                                                                                      202308
+155001Serviço de Traumatologia e Ortopedia                                                                                                                  202308
+156001Atenção as Pessoas Ostomizadas I                                                                                                                      202308
+157001Laboratorio Regional de Protese Dentaria                                                                                                              202308
+158001Serviço de Atenção Integral em Hanseniase Tipo I                                                                                                      202308
+159001Atenção Primária                                                                                                                                      202308
+160001Teleconsultoria Assíncrona                                                                                                                            202308
+161001Equipe de Consultório na Rua - Modalidade I                                                                                                           202308
+162001ADULTO                                                                                                                                                202308
+163001NEONATAL CONVENCIONAL                                                                                                                                 202308
+164001Dispensação de OPM Auxiliares de Locomoção                                                                                                            202308
+100002Atendimento em manicômio até 100 presos                                                                                                               202308
+174002Grupos Especiais                                                                                                                                      202308
+102002Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade I)                                                                          202308
+103002Unidade de suporte básico de vida terrestre (USB)                                                                                                     202308
+104002Cental de Regulação de Consultas e Exames                                                                                                             202308
+105002Coluna e nervos periféricos                                                                                                                           202308
+106002Diagnóstico e tratamento                                                                                                                              202308
+107002Serviço de Atenção à Saúde Auditiva na Alta Complexidade                                                                                              202308
+108002Centro de referência em saúde do trabalhador CEREST estadual                                                                                          202308
+109002Unidade sócio-educativa com de 41 a 100 adolecentes                                                                                                   202308
+110002Contracepção clínica                                                                                                                                  202308
+111002Tratamento multidrogas resistentes                                                                                                                    202308
+112002Acompanhamento do pré-natal de alto risco                                                                                                             202308
+113002Internação Domiciliar                                                                                                                                 202308
+114002Endodontia                                                                                                                                            202308
+115002Atendimento psicossocial                                                                                                                              202308
+116002Cirurgia cardiovascular (adulto)                                                                                                                      202308
+117002Tratamento em queimados                                                                                                                               202308
+120002Exames citopatológicos                                                                                                                                202308
+121002Ultra-sonografia                                                                                                                                      202308
+122002Teste de Holter                                                                                                                                       202308
+123002OPM ortopédicas                                                                                                                                       202308
+124002Cirurgia de glândulas endócrinas                                                                                                                      202308
+125002Farmácia Popular                                                                                                                                      202308
+126002Assistência fisioterapêutica em alterações oncológicas                                                                                                202308
+128002Diagnóstico em hemoterapia                                                                                                                            202308
+129002Exames de histocompatibilidade por sorologia e biologia                                                                                               202308
+131002Tratamento clínico do aparelho da visão                                                                                                               202308
+132002Hematologia                                                                                                                                           202308
+133002Diagnóstico em Pneumologia                                                                                                                            202308
+134002Fitoterapia                                                                                                                                           202308
+135002Reabilitação Intelectual                                                                                                                              202308
+136002Enteral/Parenteral                                                                                                                                    202308
+138002Diagnóstico e tratamento em membros superiores                                                                                                        202308
+139002Tratamento de recém-nascido com doenças falciformes                                                                                                   202308
+141002Vigilância sanitária                                                                                                                                  202308
+142002Do aparelho respiratório                                                                                                                              202308
+143002Transporte aéreo                                                                                                                                      202308
+145002Exames hematológicos e hemostasia                                                                                                                     202308
+146002Cirúrgica                                                                                                                                             202308
+147002NASF 2                                                                                                                                                202308
+148002AIDS                                                                                                                                                  202308
+149002Medula óssea                                                                                                                                          202308
+150002Fístula arteriovenosa com enxerto                                                                                                                     202308
+151002Medicina nuclear in vitro                                                                                                                             202308
+153002Cirurgia e Acompanhamento pré e pós oreratório                                                                                                        202308
+154002Banco de tecido musculo esqueletico                                                                                                                   202308
+155002Serviço de Traumatologia e Ortopedia Pediátrica (até 21 anos de idade)                                                                                202308
+156002Atenção as Pessoas Ostomizadas II                                                                                                                     202308
+158002Serviço de Atenção Integral em Hanseniase Tipo II                                                                                                     202308
+159002Atenção Básica com Saúde Bucal                                                                                                                        202308
+160002Teleconsultoria Síncrona                                                                                                                              202308
+161002Equipe de Consultório na Rua - Modalidade II                                                                                                          202308
+162002NEONATAL                                                                                                                                              202308
+163002NEONATAL CANGURU                                                                                                                                      202308
+164002Manutenção e Adaptação de OPM Auxiliares de Locomoção                                                                                                 202308
+165002Serviço de Referência para Atenção Integral à Saúde de Adolescentes em Situação de Violência Sexual                                                   202308
+166002Água de Ambiental                                                                                                                                     202308
+167002ODONTOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                       202308
+168002Referência em Doenças Raras                                                                                                                           202308
+169002Litotripsia                                                                                                                                           202308
+173002Armazenamento e Controle                                                                                                                              202308
+101002Saúde bucal MI                                                                                                                                        202308
+100003Atendimento em presídio acima de 100 presos                                                                                                           202308
+101003Saúde bucal MII                                                                                                                                       202308
+102003Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade II)                                                                         202308
+103003Unidade de suporte avançado de vida terrestre (USA)                                                                                                   202308
+104003Central de Regulação de Urgências                                                                                                                     202308
+105003Tumores do sistema nervoso                                                                                                                            202308
+106003Diagnóstico, tratamento e capacitação técnica                                                                                                         202308
+107003Terapia fonoaudiológica                                                                                                                               202308
+108003VIGILÂNCIA EM SAÚDE DO TRABALHADOR (VISAT)                                                                                                            202308
+109003Unidade sócio-educativa com de 101 a 180 adolecentes                                                                                                  202308
+110003Laqueadura                                                                                                                                            202308
+112003Parto em gestação de risco habitual                                                                                                                   202308
+113003Equipe Multidisciplinar de Atenção Domiciliar - EMAD                                                                                                  202308
+114003Periodontia clínica                                                                                                                                   202308
+115003Serviço Hospitalar para Atenção a Saúde Mental                                                                                                        202308
+116003Cirurgia cardiovascular (Pediátrico)                                                                                                                  202308
+117003Tratamento da lipoatrofia facial do portador de HIV / AIDS                                                                                            202308
+120003Monitoramento Externo da Qualidade dos Exames Citopatologicos do Colo do Útero                                                                        202308
+121003Tomografia computadorizada                                                                                                                            202308
+122003Exame Eletrocardiográfico                                                                                                                             202308
+123003OPM auditivas                                                                                                                                         202308
+125003Farmácia com manipulação homeopática                                                                                                                  202308
+126003Assistência fisioterapêutica em oftalmologia                                                                                                          202308
+128003Procedimentos especiais em hemoterapia                                                                                                                202308
+130003Confeccção/Intervenção de Acessos para Diálise                                                                                                        202308
+131003Tratamento cirúrgico do aparelho da visão                                                                                                             202308
+132003Oncologia clínica                                                                                                                                     202308
+133003Diagnóstico em Pneumologia por Telemedicina                                                                                                           202308
+134003Outras Práticas em Medicina Tradicional Chinesa                                                                                                       202308
+135003Reabilitação Física                                                                                                                                   202308
+136003Enteral/Parenteral, com manipulação/fabricação                                                                                                        202308
+138003Diagnóstico e tratamento em coluna vertebral e caixa torácica                                                                                         202308
+139003Tratamento de recém-nascido com fibrose cística                                                                                                       202308
+141003Vigilância ambiental                                                                                                                                  202308
+142003Do aparelho urinário                                                                                                                                  202308
+143003Transporte marítimo                                                                                                                                   202308
+145003Exames sorológicos e imunológicos                                                                                                                     202308
+147003NASF Intermunicipal                                                                                                                                   202308
+148003Geriátrico                                                                                                                                            202308
+149003Coração                                                                                                                                               202308
+151003Medicina nuclear in vivo por telemedicina                                                                                                             202308
+155003Serviço de Traumatologia e Ortopedia de Urgência                                                                                                      202308
+158003Serviço de Atenção Integral em Hanseniase Tipo III                                                                                                    202308
+159003Academia da Saúde                                                                                                                                     202308
+160003Segunda Opinião Formativa                                                                                                                             202308
+161003Equipe de Consultório na Rua - Modalidade III                                                                                                         202308
+162003PEDIÁTRICO                                                                                                                                            202308
+163003PEDIÁTRICO                                                                                                                                            202308
+164003Dispensação de OPM Ortopédica                                                                                                                         202308
+165003Serviço de Referência para Atenção Integral à Saúde de Crianças em Situação de Violência Sexual                                                       202308
+166003Água de Hemodiálise                                                                                                                                   202308
+167003OFTALMOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                          202308
+173003Distribuição                                                                                                                                          202308
+152004Saneamento a Populações Indígenas                                                                                                                     202308
+122004Exame Eletroencefalográfico                                                                                                                           202308
+162004QUEIMADOS                                                                                                                                             202308
+163004ADULTO                                                                                                                                                202308
+164004Manutenção e Adaptação de OPM Ortopédica                                                                                                              202308
+165004Serviço de Referência para Atenção Integral à Saúde de Homens em Situação de Violência Sexual                                                         202308
+166004Água Mineral                                                                                                                                          202308
+167004OFTALMOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                      202308
+173004Transporte                                                                                                                                            202308
+123004OPM oftalmológicas                                                                                                                                    202308
+125004Dispensação de medicamentos estratégicos                                                                                                              202308
+126004Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                                                                     202308
+128004Medicina transfusional                                                                                                                                202308
+130004Tratamento Nefrologia em Geral                                                                                                                        202308
+131004Projeto Olhar Brasil                                                                                                                                  202308
+132004Radioterapia                                                                                                                                          202308
+134004Práticas Corpo-mente                                                                                                                                  202308
+135004Reabilitação visual/mental/múltiplas deficiências                                                                                                     202308
+138004Diagnóstico e tratamento em cintura pélvica                                                                                                           202308
+139004Tratamento de recém-nascido com outras doenças congênitas                                                                                             202308
+140004Estabilização de paciente crítico/grave                                                                                                               202308
+141004Núcleo de vigilância hospitalar                                                                                                                       202308
+142004Do aparelho ginecológico                                                                                                                              202308
+145004Exames coprológicos                                                                                                                                   202308
+147004NASF 3                                                                                                                                                202308
+148004Fibrose cística                                                                                                                                       202308
+149004Pulmão                                                                                                                                                202308
+100004Atendimento em manicômio acima de 100 presos                                                                                                          202308
+101004Saúde da Família para a População Ribeirinha                                                                                                          202308
+104004Unidade de autorizações de TFD intermunicipais                                                                                                        202308
+105004Neurocirurgia vascular                                                                                                                                202308
+106004Assistência Domiciliar Terapêutica em AIDS-ADT                                                                                                        202308
+107004Diagnóstico em audiologia/otologia                                                                                                                    202308
+109004Unidade sócio-educativa com mais de 180 adolecentes                                                                                                   202308
+110004Vasectomia                                                                                                                                            202308
+112004Parto em gestação de alto risco                                                                                                                       202308
+113004Equipe Multidisciplinar de Apoio - EMAP                                                                                                               202308
+114004Moldagem/Manutenção                                                                                                                                   202308
+115004Serviço Residencial Terapêutico Tipo I - SRT tipo I                                                                                                   202308
+116004Cirurgia vascular                                                                                                                                     202308
+121004Ressonância magnética                                                                                                                                 202308
+159004Estratégia de Saúde da Família                                                                                                                        202308
+152005Atenção Especializada a Populações Indígenas                                                                                                          202308
+122005Teste Ergométrico por Telemedicina                                                                                                                    202308
+162005DOENÇA CORONARIANA (UCO)                                                                                                                              202308
+164005Dispensação de OPM Auditiva                                                                                                                           202308
+165005Serviço de Referência para Atenção Integral à Saúde de Pessoas Idosas em Situação de Violência Sexual                                                 202308
+166005Alimentos                                                                                                                                             202308
+123005OPM em gastroenterologia                                                                                                                              202308
+125005Dispensação de medicamentos básicos                                                                                                                   202308
+126005Assistência fisioterapêutica nas disfunções músculo-esqueléticas (todas as origens)                                                                   202308
+130005Tratamento Diálitico Peritonial                                                                                                                       202308
+131005Diagnóstico em Oftalmologia por Telemedicina                                                                                                          202308
+132005Oncologia cirúrgica                                                                                                                                   202308
+134005Homeopatia                                                                                                                                            202308
+135005Reabiliatação Auditiva                                                                                                                                202308
+138005Diagnóstico e tratamento em membros inferiores                                                                                                        202308
+139005Acompanhamento a pacientes com diagnósticos de Hiperplasia Adrenal Congênita                                                                          202308
+140005Atendimento ao paciente com Acidente Vascular Cerebral (AVC)                                                                                          202308
+141005Vigilância de Zoonoses                                                                                                                                202308
+145005Exames de uroanálise                                                                                                                                  202308
+148005Cirúrgico / Diagnóstico                                                                                                                               202308
+149005Córnea / Esclera                                                                                                                                      202308
+101005Saúde da Família para a População Ribeirinha-Saúde Bucal MI                                                                                           202308
+103005Unidade de Suporte Básico de vida: Equipe Embarcação                                                                                                  202308
+104005Unidade de autorizações de TFD interestaduais                                                                                                         202308
+105005Tratamento neurocirúrgico da dor funcional                                                                                                            202308
+106005Unidade Dispensadora de Medicamentos - UDM                                                                                                            202308
+107005Implante Coclear                                                                                                                                      202308
+109005Atenção Básica à Adolescentes em Unidade Socioeducativa                                                                                               202308
+112005Centro de parto normal                                                                                                                                202308
+113005Equipe de cuidados domiciliares                                                                                                                       202308
+114005Cirurgia oral                                                                                                                                         202308
+115005Serviço Residencial Terapêutico Tipo II - SRT tipo II                                                                                                 202308
+116005Cardiologia intervencionista (hemodinâmica)                                                                                                           202308
+159005Saúde Bucal                                                                                                                                           202308
+149006Fígado                                                                                                                                                202308
+122006Teste Holter por Telemedicina                                                                                                                         202308
+164006Manutenção e Adaptação de OPM Auditiva                                                                                                                202308
+165006Serviço de referência para interrupção de gravidez nos casos previstos em LEI                                                                         202308
+166006Células, Tecidos e Órgãos                                                                                                                             202308
+123006OPM em urologia                                                                                                                                       202308
+125006Farmácia Hospitalar                                                                                                                                   202308
+126006Assistência fisioterapêutica em queimados                                                                                                             202308
+130006Tratamento em DRC                                                                                                                                     202308
+131006Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                                 202308
+134006Termalismo/Crenoterapia                                                                                                                               202308
+139006Acompanhamento a pacientes com diagnósticos de Deficiência Biotinidase                                                                                202308
+140006Pronto Atendimento Clínico                                                                                                                            202308
+145006Exames hormonais                                                                                                                                      202308
+148006Acompanhamento pós-transplante de medula óssea                                                                                                        202308
+101006Saúde da Família Fluvial                                                                                                                              202308
+103006Veículos de intervenção rápida                                                                                                                        202308
+104006Central Estadual de Regulação da Alta Complexidade                                                                                                    202308
+105006Investigação e cirurgia de epilepsia                                                                                                                  202308
+107006Triagem Auditiva Neonatal                                                                                                                             202308
+112006Casa da Gestante, Bebê e Puérpera                                                                                                                     202308
+114006Cirurgia buco-maxilo-facial                                                                                                                           202308
+115006UA Adulto                                                                                                                                             202308
+116006Cardiologia Endovascular Extracardíaco                                                                                                                202308
+121006Radiologia intervencionista                                                                                                                           202308
+159006Núcleo Ampliado de Saúde da Família e Atenção Primária                                                                                                202308
+149007Pâncreas                                                                                                                                              202308
+159007Atenção Primária para População Ribeirinha                                                                                                            202308
+164007Dispensação de OPM Oftalmológica                                                                                                                      202308
+165007Atenção Ambulatorial  ás Pessoas em Situação de Violência Sexual                                                                                      202308
+166007Medicamentos                                                                                                                                          202308
+123007OPM em odontologia                                                                                                                                    202308
+125007Farmácia Viva                                                                                                                                         202308
+126007Assistência fisioterapêutica nas alterações em neurologia                                                                                             202308
+131007Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                             202308
+134007Antroposofia Aplicada à Saúde                                                                                                                         202308
+135007Oficina Ortopédica Fixa                                                                                                                               202308
+140007Pronto Atendimento Pediátrico                                                                                                                         202308
+145007Exames de  vigilância epidemiológica e  ambiental                                                                                                     202308
+101007Saúde da Família Fluvial com Saúde Bucal                                                                                                              202308
+103007Outros veículos                                                                                                                                       202308
+104007Regulação Nacional de Alta Complexidade                                                                                                               202308
+105007Tratamento endovascular                                                                                                                               202308
+107007Diagnóstico em Audiologia/Otologia por Telemedicina                                                                                                   202308
+112007Atenção especializada ao seguimento do recém-nascido e crianças egressos de unidades neonatais (ANEO)                                                 202308
+114007Atendimento à pessoa com deficiência                                                                                                                  202308
+115007UA Infantojuvenil                                                                                                                                     202308
+116007Cardiologia Clínica                                                                                                                                   202308
+121007Radiologia por telemedicina                                                                                                                           202308
+122007Exame Eletrocardiografico por Telemedicina                                                                                                            202308
+149008Retirada de orgãos                                                                                                                                    202308
+135008Oficina Ortopédica Intinerante Terrestre                                                                                                              202308
+121008Ultra-sonografia por telemedicina                                                                                                                     202308
+116008Serviço de Atenção Cardiovascular/Cardiologia Angiologia                                                                                              202308
+115008Unidade de Atenção em Regime Residencial                                                                                                              202308
+112008Atenção especializada gestação de alto risco (AGAR)                                                                                                   202308
+107008Atenção Especializada às Pessoas com Deficiência Auditiva                                                                                             202308
+105008Neurocirurgia funcional estereotáxica                                                                                                                 202308
+104008Regulação Ambulatorial de Média Complexidade                                                                                                          202308
+103008Ambulância de resgate                                                                                                                                 202308
+101008ESF Tipo I, II, III, IV ou Transitória                                                                                                                202308
+145008Exames toxicológicos ou de monitorização terapêutica                                                                                                  202308
+140008Pronto Atendimento Obstétrico                                                                                                                         202308
+134008Práticas Expressivas                                                                                                                                  202308
+126008Diagnóstico cinético funcional                                                                                                                        202308
+123008OPM buco-maxilo-facial                                                                                                                                202308
+122008Exame Eletroencefalografico por Telemedicina                                                                                                          202308
+152008Hospitalidade Indígena                                                                                                                                202308
+159008Consultório na Rua                                                                                                                                    202308
+164008Manutenção e Adaptação de OPM Oftalmológica                                                                                                           202308
+165008Coleta de  Vestígios de Violência Sexual                                                                                                              202308
+166008Saneantes Domissanitários                                                                                                                             202308
+101009ESF Tipo I, II, III, IV ou Transitória com Saúde Bucal MI                                                                                             202308
+149009Pele                                                                                                                                                  202308
+123009Substituição/Troca em órteses/próteses                                                                                                                202308
+145009Exames microbiológicos                                                                                                                                202308
+122009Exame Eletroneuromiografia                                                                                                                            202308
+105009Polissonografia                                                                                                                                       202308
+166009Produtos para a Saúde                                                                                                                                 202308
+140009Pronto Atendimento Psiquiátrico                                                                                                                       202308
+115009Tratamento em Regime de Internação para Transtornos Mentais e Dependência Química                                                                     202308
+164009Substitução/Troca de OPM                                                                                                                              202308
+135009Oficina Ortopédica Intinerante Fluvial                                                                                                                202308
+159009Atenção Primária para População Prisional                                                                                                             202308
+121009Tomografia computadorizada por telemedicina                                                                                                           202308
+152009Gestão da Atenção e Saneamento à Populações Indígenas                                                                                                 202308
+134009Ayurveda                                                                                                                                              202308
+104009Regulação do Acesso a Ações e Serviços de Saúde                                                                                                       202308
+134010Práticas Naturais                                                                                                                                     202308
+159010Atenção Primária para Adolescentes em Unidade Socioeducativa                                                                                          202308
+123010OPM em queimados                                                                                                                                      202308
+135010Atenção Fonoaudiológica                                                                                                                               202308
+152010Saúde Bucal à Populações Indígenas                                                                                                                    202308
+103010Motolância                                                                                                                                            202308
+164010OPM em gastroenterologia                                                                                                                              202308
+149010Válvulas cardíacas                                                                                                                                    202308
+121010Ressonância magnética por telemedicina                                                                                                                202308
+166010Cosméticos                                                                                                                                            202308
+145010Exames em outros líquidos biológicos                                                                                                                  202308
+140010Pronto Atendimento Oftalmológico                                                                                                                      202308
+122010Exame videoeletroencefalografia                                                                                                                       202308
+101010ESF Tipo I, II, III, IV ou Transitória com Saúde Bucal MII                                                                                            202308
+123011OPM em nefrologia                                                                                                                                     202308
+122011Potenciais Evocados                                                                                                                                   202308
+121011Radiologia intervencionista por telemedicina                                                                                                          202308
+103011Unidade de Suporte Avançado de vida: Equipe Embarcação                                                                                                202308
+101011ESF Transitória                                                                                                                                       202308
+166011Desinfestantes                                                                                                                                        202308
+164011OPM em Urologia                                                                                                                                       202308
+149011Osteocondroligamentos                                                                                                                                 202308
+145011Exames de genética                                                                                                                                    202308
+140011Pronto Atendimento Odontológico                                                                                                                       202308
+135011Atenção Fisioterapeutica                                                                                                                              202308
+134011Práticas Manuais                                                                                                                                      202308
+135012Atenção à Saúde das Pessoas Ostomizadas I                                                                                                             202308
+123012OPM - Projeto Olhar Brasil                                                                                                                            202308
+103012Equipe Aeromédico                                                                                                                                     202308
+145012Exames para triagem neonatal                                                                                                                          202308
+121012Mamografia                                                                                                                                            202308
+101012Saúde da Família para a População Ribeirinha - Saúde Bucal MII                                                                                        202308
+134012Práticas Psicodinâmicas                                                                                                                               202308
+122012Potenciais Evocados por Telemedicina                                                                                                                  202308
+140012Pronto Socorro Pediátrico                                                                                                                             202308
+166012Imunobiológicos                                                                                                                                       202308
+149012Separação, avaliação biomicroscópica e conservação da córnea/esclera                                                                                  202308
+123013OPM Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                             202308
+101013ESB MI                                                                                                                                                202308
+140013Pronto Socorro Obstétrico                                                                                                                             202308
+166013Insumos Farmacêuticos                                                                                                                                 202308
+149013Contagem endotelial corneana                                                                                                                          202308
+121013Mamografia por Telemedicina                                                                                                                           202308
+135013Atenção à Saúde das Pessoas Ostomizadas II                                                                                                            202308
+145013Exames imunohematológicos                                                                                                                             202308
+134013Ozônioterapia                                                                                                                                         202308
+149014Acompanhamento de paciente transplantado                                                                                                              202308
+166014Material Biológico                                                                                                                                    202308
+140014Pronto Socorro Cardiovascular                                                                                                                         202308
+123014OPM Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                         202308
+134014Aromaterapia                                                                                                                                          202308
+101014ESB MII                                                                                                                                               202308
+140015Pronto Socorro Neurologia/Neurocirurgia                                                                                                               202308
+166015Sangue e Hemoderivados                                                                                                                                202308
+134015Imposição de Mãos                                                                                                                                     202308
+149015Ações para doação e captação de órgãos e tecidos                                                                                                      202308
+149016Retirada de globo ocular humano para transplante                                                                                                      202308
+166016Surtos de Toxinfecção                                                                                                                                 202308
+140016Pronto Socorro Traumato-Ortopédico                                                                                                                    202308
+166017Diversos                                                                                                                                              202308
+140017Pronto Socorro Odontológico                                                                                                                           202308
+140018Pronto Socorro Oftalmológico                                                                                                                          202308
+140019Pronto Socorro Geral/Clínico                                                                                                                          202308
